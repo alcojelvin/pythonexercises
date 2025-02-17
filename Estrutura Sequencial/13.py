@@ -24,3 +24,4 @@ if gender == "f":
 elif gender == "m":
     mimc = ( 72.7 * height ) - 58
     print(f"O peso ideal do indivíduo é {mimc:.1f}")
+    
